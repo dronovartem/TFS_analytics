@@ -1,2 +1,2 @@
 # TFS_analytics
-there are  solutions for TFS 2020 spring
+some exercises from TFS 2020 product analyst course
